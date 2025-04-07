@@ -5,12 +5,12 @@ A responsive clone of the Amazon homepage created using only **HTML** and **CSS*
 ---
 
 ## 📸 Overview
-(![Screenshot 2025-04-08 004942](https://github.com/user-attachments/assets/dd2657b5-1a44-4d54-8105-8bfb999175f8)
-) 
-(![Screenshot 2025-04-08 005000](https://github.com/user-attachments/assets/5e40db92-0a5b-491d-915f-c216bcf1a127)
-)
-(![Screenshot 2025-04-08 005009](https://github.com/user-attachments/assets/9c3e5e1e-f0c4-44e9-b596-88f4a801962d)
-)
+![Screenshot 2025-04-08 004942](https://github.com/user-attachments/assets/dd2657b5-1a44-4d54-8105-8bfb999175f8)
+
+![Screenshot 2025-04-08 005000](https://github.com/user-attachments/assets/5e40db92-0a5b-491d-915f-c216bcf1a127)
+
+![Screenshot 2025-04-08 005009](https://github.com/user-attachments/assets/9c3e5e1e-f0c4-44e9-b596-88f4a801962d)
+
 
 
 *A clean UI clone of Amazon's homepage with navbar, search bar, product cards, and footer.*
