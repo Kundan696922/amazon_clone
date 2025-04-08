@@ -23,7 +23,6 @@ A Clone of the Amazon homepage created using only **HTML** and **CSS**. This pro
 - Product categories section
 - Hero banner section
 - Product cards layout
-- Footer with useful links
 
 ---
 
