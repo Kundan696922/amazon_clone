@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone
 
-A responsive clone of the Amazon homepage created using only **HTML** and **CSS**. This project is a front-end UI replica and does not include any backend functionality like login, cart, or payment features.
+A Clone of the Amazon homepage created using only **HTML** and **CSS**. This project is a front-end UI replica and does not include any backend functionality like login, cart, or payment features.
 
 ---
 
@@ -19,7 +19,6 @@ A responsive clone of the Amazon homepage created using only **HTML** and **CSS*
 
 ## 🔧 Features
 
-- Fully responsive design
 - Amazon-style navigation bar
 - Product categories section
 - Hero banner section
