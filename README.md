@@ -42,7 +42,7 @@ A responsive clone of the Amazon homepage created using only **HTML** and **CSS*
 
 1. **Download or Clone the Repository:**
    - Click the green `Code` button above and select `Download ZIP`, or
-   - Run `git clone https://github.com/your-username/amazon-clone.git` in your terminal
+   - Run `https://github.com/Kundan696922/amazon_clone.git` in your terminal
 
 2. **Open the Project:**
    - Open the folder in [Visual Studio Code](https://code.visualstudio.com/) or your preferred code editor.
